@@ -8,7 +8,7 @@ To sort an array of size N in ascending order iterate over the array and compare
 Move the greater elements one position up to make space for the swapped element.
 
 Code :
-
+**********************
 // Java program for implementation of Insertion Sort
 
 public class InsertionSort {
